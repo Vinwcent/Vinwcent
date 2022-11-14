@@ -1,6 +1,9 @@
-Hi, I'm Vinwcent, an ESPCI student in Mathematics/Physics. I'm passionated about creating AI algorithms and games based on them. You should begin to see more and more deep learning algorithm project in the next months. Currently working on a surface detection U-net neural network thanks to fringe profilometry !
+Hi, I'm Vinwcent, an ESPCI student in Mathematics/Physics. I'm passionated about creating AI algorithms and games based on them.
+I'm currently creating a game with a few AI called Carrot Society that I began in March 2022, it will be a commercial project that I will release in December/January on the Appstore that's why the source code is not available (if you want a testflight code contact me !)
 
-I'll restart working on the almost finished RTS game in a while so feel free to finish it before if you want !
+For those who came to look at the RTS game, you can use and edit it freely, I don't know when I will work on it again.
+
+Have fun !
 
 <!---
 Vinwcent/Vinwcent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
