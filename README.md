@@ -1,7 +1,9 @@
 Hi, I'm Vinwcent, an ESPCI student. I'm passionated about creating AI algorithms and games based on them.
-I'm currently creating a game with a few AI called Carrot Society that I began in March 2022, it will be a commercial project that I will release in December/January on the Appstore that's why the source code is not available (if you want a testflight code contact me !)
+Carrot Society and Punchit are two commercial games I made which are available on the Appstore.
 
-For those who came to look at the RTS game, you can use and edit it freely, I don't know when I will work on it again.
+Currently working on a Hive RL agent that should be available here in April/May.
+
+PS: For those who came to look at the RTS game, you can use and edit it freely, the development is paused and I would be happy to see what you'll do with it !
 
 Have fun !
 
