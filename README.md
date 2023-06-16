@@ -1,4 +1,4 @@
-Hi, I'm Vinwcent, an ESPCI student. You'll mainly find AI and games here. Finished the HiveRL algorithm
+Hi, I'm Vinwcent. You'll mainly find AI and games here. Finished the HiveRL algorithm
 based on AlphaZero implementation with a modification of the Monte-Carlo Tree Search part, the whole code is available.
 
 Got two apps on the Appstore, Carrot Society and Punchit, check it out !
